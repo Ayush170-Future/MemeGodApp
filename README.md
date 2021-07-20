@@ -1,1 +1,1 @@
-This is a simple Meme sharing App I made which includes Raddit API calls to fetch memes using Volley library in Andriod Studios.
+This is a Meme sharing Android application I made that fetches high-rated memes from Reddit through an API call using the Volly library in Android Studios.
